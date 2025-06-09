@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu site pessoal! Desenvolvido com HTML, CSS e JavaScript, este espaço foi criado para apresentar minha trajetória profissional, projetos e formas de contato.  
 
+🔗 **Acesse o site:** [Diego Magnata](https://dimag-cc.github.io/portfolio-Diego/)  
+
 ## 📁 Estrutura das Páginas  
 
 Este site é composto pelas seguintes páginas:  
@@ -23,4 +25,4 @@ Para desenvolver este site, utilizei as seguintes tecnologias:
 
 O principal propósito deste site é facilitar o acesso às minhas informações profissionais, proporcionando um canal prático para networking e possíveis oportunidades na área de tecnologia.  
 
-Fique à vontade para explorar e entrar em contato! 🚀  
+Fique à vontade para explorar e entrar em contato! 🚀    
