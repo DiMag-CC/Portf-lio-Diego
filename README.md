@@ -1,20 +1,26 @@
-# 🌐 Site Pessoal – Diego Magnata
+# 🌐 Site Pessoal – Diego Magnata  
 
-Este é meu site pessoal desenvolvido com HTML, CSS e JavaScript, criado para apresentar meu perfil profissional, trajetória, projetos e formas de contato.
+Bem-vindo ao meu site pessoal! Desenvolvido com HTML, CSS e JavaScript, este espaço foi criado para apresentar minha trajetória profissional, projetos e formas de contato.  
 
-## 📁 Estrutura das Páginas
+## 📁 Estrutura das Páginas  
 
-- **`index.html`** – Página inicial com uma breve apresentação.
-- **`about.html`** – Informações sobre minha formação, certificações e interesses.
-- **`projects.html`** – Projetos desenvolvidos, com foco em impacto social e inovação.
-- **`contact.html`** – Meus contatos e redes profissionais (GitHub e LinkedIn).
+Este site é composto pelas seguintes páginas:  
 
-## 💡 Tecnologias Utilizadas
+- **`index.html`** – Página inicial com uma introdução sobre mim.  
+- **`about.html`** – Informações detalhadas sobre minha formação, certificações e interesses profissionais.  
+- **`projects.html`** – Portfólio de projetos, com foco em inovação e impacto social.  
+- **`contact.html`** – Meus contatos e redes profissionais (GitHub e LinkedIn).  
 
-- HTML5  
-- CSS3  
-- JavaScript  
+## 💡 Tecnologias Utilizadas  
 
-## 📌 Objetivo
+Para desenvolver este site, utilizei as seguintes tecnologias:  
 
- - Este repositório tem como objetivo simplificar o acesso as minhas informações para possíveis contatos e networking da área de trabalho.
+- **HTML5** – Estrutura e semântica da página.  
+- **CSS3** – Estilização e responsividade.  
+- **JavaScript** – Interatividade e funcionalidades dinâmicas.  
+
+## 🎯 Objetivo  
+
+O principal propósito deste site é facilitar o acesso às minhas informações profissionais, proporcionando um canal prático para networking e possíveis oportunidades na área de tecnologia.  
+
+Fique à vontade para explorar e entrar em contato! 🚀  
